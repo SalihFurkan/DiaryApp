@@ -1,4 +1,4 @@
-# DiaryApp
+# DiaryBlogApp
 Standart Diary App on Python using Tkinter
 
 Tkinter Library is used in this application.
