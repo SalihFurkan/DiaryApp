@@ -1,5 +1,5 @@
 # DiaryBlogApp
-Standart Diary App on Python using Tkinter
+Standart Diary and Blog App on Python using Tkinter
 
 Tkinter Library is used in this application.
 In order to pass through pages button command is used with new object every time.
